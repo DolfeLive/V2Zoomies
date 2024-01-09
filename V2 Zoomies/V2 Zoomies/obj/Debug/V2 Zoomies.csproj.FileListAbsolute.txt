@@ -1,0 +1,38 @@
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\V2 Zoomies.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\V2 Zoomies.pdb
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\0Harmony.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\Assembly-CSharp.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\BepInEx.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\Unity.Addressables.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\Unity.InputSystem.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\Unity.ResourceManager.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UI.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityUIExtensions.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\obj\Debug\V2 Zoomies.csproj.AssemblyReference.cache
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\obj\Debug\V2 Zoomies.csproj.CoreCompileInputs.cache
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\obj\Debug\V2 Zoomies.csproj.CopyComplete
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\obj\Debug\V2 Zoomies.dll
+C:\Users\dolfe\source\repos\V2 Zoomies\V2 Zoomies\obj\Debug\V2 Zoomies.pdb
